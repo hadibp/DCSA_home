@@ -7,7 +7,7 @@
   box-shadow: 5px 10px 18px #888888;
   transition: 0.3s;
     width: 80%;
-    height: 83%;
+    height: 101%;
     background: rgb(59,118,158);
     background: linear-gradient(229deg, rgba(59,118,158,1) 25%, rgba(18,222,230,1) 87%);  
     border-radius: 12px; 
@@ -22,7 +22,7 @@
     padding: 2px 16px;
   }
   img{
-    height: 8rem;
+    height: 12rem;
   }
   .body{
     display: flex;
@@ -76,4 +76,5 @@
     font-size: 65px;
     text-align: center;
     color: teal;
+    padding-top: 83px;
   }
